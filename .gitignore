@@ -1,0 +1,5 @@
+# match chapter sources
+*.md
+
+# but not the readme
+!README.md
